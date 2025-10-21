@@ -3,3 +3,4 @@ channels:
 dependencies:
   - python =3.13
   - jobflow =0.2.0
+  - aiida-workgraph =0.7.3
