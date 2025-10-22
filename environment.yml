@@ -5,3 +5,4 @@ dependencies:
   - jobflow =0.2.0
   - aiida-workgraph =0.7.3
   - pyiron_base =0.15.5
+  - flowrep =0.0.2
