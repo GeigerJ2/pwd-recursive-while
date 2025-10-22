@@ -3,5 +3,5 @@ channels:
 dependencies:
   - python =3.12
   - jobflow =0.2.0
-  - aiida-workgraph =0.7.3
+  - aiida-workgraph =0.7.4
   - pyiron_base =0.15.5
