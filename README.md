@@ -9,7 +9,7 @@ This repository summarizes the discussions we had at the MADICES Workshop 2025:
 Additional Github discussions:
 * https://github.com/MADICES/MADICES-2025/discussions/21 - Discussion during the workshop
 * https://github.com/MADICES/MADICES-2025/discussions/16 - Discussion before the workshop
-* https://github.com/jan-janssen/pwd-qe-data-export - Proposal to include output data in the Python Workflow Definition
+* [proposal-for-data-export](https://github.com/pythonworkflow/proposal-for-data-export) - Proposal to include output data in the Python Workflow Definition
 
 Participants:
 * [@GeigerJ2](https://github.com/GeigerJ2)
