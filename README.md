@@ -17,5 +17,6 @@ Participants:
 * [@JaGeo](https://github.com/JaGeo)
 * [@jan-janssen](https://github.com/jan-janssen)
 * [@JFRudzinski](https://github.com/JFRudzinski)
+* [@samwaseda](https://github.com/samwaseda)
 * [@schaarj](https://github.com/schaarj)
 * [@superstar54](https://github.com/superstar54)
