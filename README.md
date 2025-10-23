@@ -1,5 +1,5 @@
 # MADICES Workshop 2025
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pwd-recursive-while/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythonworkflow/madices-workshop-2025/HEAD)
 
 This repository summarizes the discussions we had at the MADICES Workshop 2025:
 * [Day 2](day_2.ipynb) - Comparison of a recursive while loop
